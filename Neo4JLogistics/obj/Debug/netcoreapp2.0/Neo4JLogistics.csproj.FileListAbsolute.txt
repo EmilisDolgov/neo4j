@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\bin\Debug\netcoreapp2.0\Neo4JLogistics.deps.json
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\bin\Debug\netcoreapp2.0\Neo4JLogistics.runtimeconfig.json
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\bin\Debug\netcoreapp2.0\Neo4JLogistics.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\bin\Debug\netcoreapp2.0\Neo4JLogistics.dll
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\obj\Debug\netcoreapp2.0\Neo4JLogistics.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\obj\Debug\netcoreapp2.0\Neo4JLogistics.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\obj\Debug\netcoreapp2.0\Neo4JLogistics.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\obj\Debug\netcoreapp2.0\Neo4JLogistics.AssemblyInfo.cs
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\bin\Debug\netcoreapp2.0\Neo4JLogistics.pdb
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\obj\Debug\netcoreapp2.0\Neo4JLogistics.dll
+C:\Users\HP\source\repos\Neo4JLogistics\Neo4JLogistics\obj\Debug\netcoreapp2.0\Neo4JLogistics.pdb
